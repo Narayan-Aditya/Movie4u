@@ -3,7 +3,7 @@
 ## About 
 - Movie4u is a Flutter Application show all Trading and Upcoming Movies.
 - You can search a Movie by name.
-- In Application Movie name | Poster | Release Date | Ranting | Adult | About Movie.
+- In Application Movie name | Poster | Release Date | Ranting | isAdult | About Movie.
 
 ## References 
 
