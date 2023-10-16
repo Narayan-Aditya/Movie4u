@@ -1,16 +1,10 @@
-# movie
+# [Movie4u.apk](https://drive.google.com/file/d/1lpfEdbrMSVx9PUw3WXSXhROdVW_mxgoo/view?usp=sharing)
 
-A new Flutter project.
+## About 
+- Movie4u is a Flutter Application show all Trading and Upcoming Movies.
+- You can search a Movie by name.
+- In Application Movie name | Poster | Release Date | Ranting | Adult | About Movie.
 
-## Getting Started
+## References 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- ## [Api](https://developer.themoviedb.org/reference/intro/getting-started)
